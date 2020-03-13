@@ -1,4 +1,5 @@
 # Autoencoders-Compression
+- The google colab repository for the code can be found [here](https://colab.research.google.com/drive/13OWQS9fP4pXmpbF3IC826JCulUCVPfR0)
 - The jupyter notebook containing the code is [attached](./Auto_Encoder_Exercise.ipynb).
 - The datasets are [training](./all_jets_train_4D_100_percent.pkl) and [testing](./all_jets_test_4D_100_percent.pkl).
 - The files ['my_matplotlib_rcparams'](./my_matplotlib_rcparams) and ['my_matplotlib_style.py'](./my_matplotlib_style.py) define functionalities for matplotlib plotting functions.
